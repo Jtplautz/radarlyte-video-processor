@@ -1,6 +1,6 @@
-# 🎥 Radarlyte Video Processor
+# 🎥 Video Processor
 
-This is a lightweight Python-based video processing microservice for overlaying branding assets (such as logos or text) on top of uploaded video clips. Built for use in Radarlyte's media pipeline, the service is fully containerized and intended for integration into microservice architectures via HTTP.
+This is a lightweight Python-based video processing microservice for overlaying branding assets (such as logos or text) on top of uploaded video clips. Built for use in radarlyte's media pipeline, the service is fully containerized and intended for integration into microservice architectures via HTTP.
 
 ---
 
